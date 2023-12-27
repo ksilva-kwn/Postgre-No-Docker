@@ -1,5 +1,5 @@
 
-<img width=100% height=450px src="https://raw.githubusercontent.com/ksilva-kwn/icones-pro-perfil/main/1__8wZWFP92axdesNPKbZOUQ.webp?token=GHSAT0AAAAAACLFTWHCDXTDNMI6OIY5FFPOZLV6AUQ" width="600" height="300">
+<img width=100% height=450px src="https://raw.githubusercontent.com/ksilva-kwn/Postgre-No-Docker/main/1__8wZWFP92axdesNPKbZOUQ.webp" width="600" height="300">
 <br>
 
 #### Geralmente, quando estamos começando uma aplicação, ou quando queremos rodar a aplicação de alguém localmente, precisamos configurar o banco de dados, sendo necessário instalar ele na máquina. Há também casos em que já temos algum banco rodando localmente e precisamos criar um novo, isso acaba dificultando a configuração.
